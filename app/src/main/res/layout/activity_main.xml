@@ -62,7 +62,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
-        android:text="流式实现方式" />
+        android:text="流式布局实现方式" />
 
     <com.zhuguohui.tagdemo.view.XCFlowLayout
         android:layout_width="200dp"
